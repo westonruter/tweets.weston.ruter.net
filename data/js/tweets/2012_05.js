@@ -66,7 +66,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Karahalis",
@@ -523,7 +523,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -572,7 +572,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -784,7 +784,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bible.is",
@@ -850,7 +850,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "205403667493429250",
   "text" : "RT @Bibleis: You are most welcome @westonruter. We will be happy to help you in the future too: http:\/\/t.co\/84EeIumI",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Weston Ruter \u26A1",
@@ -883,7 +883,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "Bibleis",
       "protected" : false,
       "id_str" : "131496634",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3704407332\/828b4399c10fd4fb4dae625cfcb8a5f3_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459386733319041025\/NaOU5LDH_normal.png",
       "id" : 131496634,
       "verified" : false
     }
@@ -999,7 +999,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bible.is",
@@ -1059,7 +1059,7 @@ Grailbird.data.tweets_2012_05 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephen Reay",
-      "screen_name" : "BobblesTMonkey",
+      "screen_name" : "bobblestmonkey",
       "indices" : [ 0, 15 ],
       "id_str" : "29897951",
       "id" : 29897951
@@ -1088,7 +1088,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 204823734886989824,
   "in_reply_to_status_id" : 204783245479510018,
   "created_at" : "2012-05-22 06:39:18 +0000",
-  "in_reply_to_screen_name" : "BobblesTMonkey",
+  "in_reply_to_screen_name" : "bobblestmonkey",
   "in_reply_to_user_id_str" : "29897951",
   "user" : {
     "name" : "Weston Ruter \u26A1",
@@ -1100,7 +1100,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1517,7 +1517,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1724,7 +1724,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "202430239383633923",
   "text" : "RT @johndyer: Bible Karaoke: http:\/\/t.co\/kEsWGpUg \n\/\/ based on work by @westonruter using @ESVBible API",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Weston Ruter \u26A1",
@@ -1863,7 +1863,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1987,7 +1987,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2124,14 +2124,14 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 74, 81 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     }, {
       "name" : "HEROized",
       "screen_name" : "HEROized",
@@ -2499,7 +2499,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brent Rieck",
@@ -2532,7 +2532,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2772,7 +2772,7 @@ Grailbird.data.tweets_2012_05 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Dyer",
@@ -2794,7 +2794,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "198002839400890368",
   "text" : "RT @johndyer: Cross-Browser Native Get\/Set Properties in JavaScript http:\/\/t.co\/F7vQFz1C",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2855,7 +2855,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "197958656078254080",
   "text" : "RT @mozhacks: Twenty-five great demos were submitted to the April Dev Derby, but which ones are best. \"Like\" your favorites here. https: ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2941,11 +2941,11 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 43, 50 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/westonruter\/status\/197499016525778944\/photo\/1",
@@ -3157,7 +3157,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "197455859050221571",
   "text" : "RT @johndyer: HTML5 Audio Read-Along http:\/\/t.co\/QnJa5ufR via @mozhacks by the awesome @westonruter",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mozilla Hacks",

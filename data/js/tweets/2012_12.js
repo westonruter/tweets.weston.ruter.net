@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_12 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -61,11 +61,11 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 47, 54 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -112,11 +112,11 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "29935051",
       "id" : 29935051
     }, {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 101, 108 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -270,7 +270,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GU Energy Labs",
@@ -367,7 +367,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GitHub",
@@ -400,7 +400,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GitHub",
@@ -444,7 +444,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "github",
       "protected" : false,
       "id_str" : "13334762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651575553\/twittergithub2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426158315781881856\/sBsvBbjY_normal.png",
       "id" : 13334762,
       "verified" : false
     }
@@ -547,7 +547,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephen Reay",
-      "screen_name" : "BobblesTMonkey",
+      "screen_name" : "bobblestmonkey",
       "indices" : [ 0, 15 ],
       "id_str" : "29897951",
       "id" : 29897951
@@ -564,7 +564,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 278230822023221249,
   "in_reply_to_status_id" : 278226360651087872,
   "created_at" : "2012-12-10 20:12:51 +0000",
-  "in_reply_to_screen_name" : "BobblesTMonkey",
+  "in_reply_to_screen_name" : "bobblestmonkey",
   "in_reply_to_user_id_str" : "29897951",
   "user" : {
     "name" : "Weston Ruter \u26A1",
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2012_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephen Reay",
-      "screen_name" : "BobblesTMonkey",
+      "screen_name" : "bobblestmonkey",
       "indices" : [ 0, 15 ],
       "id_str" : "29897951",
       "id" : 29897951
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 278225623183392768,
   "in_reply_to_status_id" : 278200440724795392,
   "created_at" : "2012-12-10 19:52:12 +0000",
-  "in_reply_to_screen_name" : "BobblesTMonkey",
+  "in_reply_to_screen_name" : "bobblestmonkey",
   "in_reply_to_user_id_str" : "29897951",
   "user" : {
     "name" : "Weston Ruter \u26A1",
@@ -986,7 +986,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Network Solutions",
@@ -1014,7 +1014,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1036,7 +1036,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wojtek Zaj\u0105c",

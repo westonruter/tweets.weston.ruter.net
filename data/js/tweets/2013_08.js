@@ -238,7 +238,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ben Lobaugh",
@@ -272,11 +272,11 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 48, 55 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     }, {
       "name" : "WordPress.com VIP",
       "screen_name" : "WordPressVIP",
@@ -347,12 +347,6 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
-      "screen_name" : "x_team",
-      "indices" : [ 3, 10 ],
-      "id_str" : "10145322",
-      "id" : 10145322
-    }, {
       "name" : "WordPress.com VIP",
       "screen_name" : "WordPressVIP",
       "indices" : [ 64, 77 ],
@@ -407,7 +401,7 @@ Grailbird.data.tweets_2013_08 =
     "created_at" : "2013-08-29 20:16:16 +0000",
     "user" : {
       "name" : "X-Team",
-      "screen_name" : "x_team",
+      "screen_name" : "xteam",
       "protected" : false,
       "id_str" : "10145322",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418130945732931584\/ySfN3M_R_normal.png",
@@ -427,7 +421,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nikita Popov",
@@ -449,7 +443,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "372973654398611457",
   "text" : "RT @nikita_ppv: Proposal for dedicated variadic function syntax: https:\/\/t.co\/5nvudQddWa",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -488,7 +482,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom J Nowell",
@@ -555,7 +549,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mario Y. Peshev",
@@ -618,7 +612,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Alex Mills",
@@ -1206,7 +1200,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1228,7 +1222,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott Kirsner",
@@ -1282,9 +1276,9 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "ScottKirsner",
       "protected" : false,
       "id_str" : "896221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000697936475\/783722765b7269da91eaa3add7879cea_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430509711918522369\/zCxQG6ad_normal.jpeg",
       "id" : 896221,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 369476546240606208,
@@ -1299,7 +1293,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Apply Filters",
@@ -1360,7 +1354,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "webdevstudios",
@@ -1404,7 +1398,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "webdevstudios",
       "protected" : false,
       "id_str" : "15783986",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/76511097\/webdevstudios-logo-gray_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434357775284453377\/UhmoPfMx_normal.png",
       "id" : 15783986,
       "verified" : false
     }
@@ -1421,7 +1415,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Siobhan Bamber",
@@ -1430,11 +1424,11 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "154145132",
       "id" : 154145132
     }, {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 25, 32 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1468,7 +1462,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Olbekson",
@@ -1530,7 +1524,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Alex Mills",
@@ -1575,7 +1569,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Justin Sainton",
@@ -1625,7 +1619,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Mullenweg",
@@ -1650,7 +1644,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "369304298946965504",
   "text" : "RT @photomatt: Check out the new http:\/\/t.co\/IOlkaZsCnZ #WordPress",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1719,11 +1713,11 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "390949134",
       "id" : 390949134
     }, {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 102, 109 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1754,7 +1748,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Bachhuber",
@@ -2172,13 +2166,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "X-Team",
-      "screen_name" : "x_team",
-      "indices" : [ 3, 10 ],
-      "id_str" : "10145322",
-      "id" : 10145322
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "deploys",
@@ -2235,7 +2223,7 @@ Grailbird.data.tweets_2013_08 =
     "created_at" : "2013-08-15 16:59:25 +0000",
     "user" : {
       "name" : "X-Team",
-      "screen_name" : "x_team",
+      "screen_name" : "xteam",
       "protected" : false,
       "id_str" : "10145322",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418130945732931584\/ySfN3M_R_normal.png",
@@ -2255,7 +2243,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zack Tollman",
@@ -2362,7 +2350,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Felt",
@@ -2395,7 +2383,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mike Bijon",
@@ -2434,7 +2422,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Felt",
@@ -2524,7 +2512,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mike Bijon",
@@ -2598,13 +2586,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "X-Team",
-      "screen_name" : "x_team",
-      "indices" : [ 3, 10 ],
-      "id_str" : "10145322",
-      "id" : 10145322
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -2637,7 +2619,7 @@ Grailbird.data.tweets_2013_08 =
     "created_at" : "2013-08-13 06:05:11 +0000",
     "user" : {
       "name" : "X-Team",
-      "screen_name" : "x_team",
+      "screen_name" : "xteam",
       "protected" : false,
       "id_str" : "10145322",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418130945732931584\/ySfN3M_R_normal.png",
@@ -2750,11 +2732,11 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 0, 7 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     }, {
       "name" : "Paul Clark",
       "screen_name" : "pdclark",
@@ -2777,7 +2759,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 367046003477581825,
   "in_reply_to_status_id" : 367045220568809472,
   "created_at" : "2013-08-12 22:12:41 +0000",
-  "in_reply_to_screen_name" : "x_team",
+  "in_reply_to_screen_name" : "xteam",
   "in_reply_to_user_id_str" : "10145322",
   "user" : {
     "name" : "Weston Ruter \u26A1",
@@ -2791,13 +2773,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "X-Team",
-      "screen_name" : "x_team",
-      "indices" : [ 3, 10 ],
-      "id_str" : "10145322",
-      "id" : 10145322
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "WordPress",
@@ -2842,7 +2818,7 @@ Grailbird.data.tweets_2013_08 =
     "created_at" : "2013-08-12 22:09:34 +0000",
     "user" : {
       "name" : "X-Team",
-      "screen_name" : "x_team",
+      "screen_name" : "xteam",
       "protected" : false,
       "id_str" : "10145322",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418130945732931584\/ySfN3M_R_normal.png",
@@ -2900,14 +2876,14 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 0, 7 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     }, {
       "name" : "Paul Clark",
       "screen_name" : "pdclark",
@@ -2932,7 +2908,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 367002412633952256,
   "in_reply_to_status_id" : 366987377429839872,
   "created_at" : "2013-08-12 19:19:28 +0000",
-  "in_reply_to_screen_name" : "x_team",
+  "in_reply_to_screen_name" : "xteam",
   "in_reply_to_user_id_str" : "10145322",
   "user" : {
     "name" : "Weston Ruter \u26A1",
@@ -2944,7 +2920,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Godley",
@@ -3244,11 +3220,11 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "12517352",
       "id" : 12517352
     }, {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 42, 49 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     }, {
       "name" : "WordPress ",
       "screen_name" : "WordPress",
@@ -3267,14 +3243,14 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "365962242149187584",
   "text" : "RT @johnregan3: #WordPress devs: Work for @x_team and get allocated time % each week for contributing back to @WordPress core!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "X-Team",
+        "name" : "\u516D\u8ECA \u592A\u52A9",
         "screen_name" : "x_team",
         "indices" : [ 26, 33 ],
-        "id_str" : "10145322",
-        "id" : 10145322
+        "id_str" : "2502594218",
+        "id" : 2502594218
       }, {
         "name" : "WordPress ",
         "screen_name" : "WordPress",
@@ -3299,7 +3275,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "johnregan3",
       "protected" : false,
       "id_str" : "12517352",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000411183227\/23943671f80ca2906d8a2d11818d7a62_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461609206051659776\/A5IgjvTc_normal.jpeg",
       "id" : 12517352,
       "verified" : false
     }
@@ -3405,7 +3381,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "365903130854043648",
   "text" : "RT @johnregan3: Just committed my first Ticket\/Patch\/Unit Test to #WordPress Trac.  Now we wait...\nhttp:\/\/t.co\/5uCpFK5638",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3430,7 +3406,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "johnregan3",
       "protected" : false,
       "id_str" : "12517352",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000411183227\/23943671f80ca2906d8a2d11818d7a62_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461609206051659776\/A5IgjvTc_normal.jpeg",
       "id" : 12517352,
       "verified" : false
     }
@@ -3516,12 +3492,6 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
-      "screen_name" : "x_team",
-      "indices" : [ 3, 10 ],
-      "id_str" : "10145322",
-      "id" : 10145322
-    }, {
       "name" : "Dzikri Aziz",
       "screen_name" : "kucrut",
       "indices" : [ 44, 51 ],
@@ -3584,7 +3554,7 @@ Grailbird.data.tweets_2013_08 =
     "created_at" : "2013-08-09 16:40:56 +0000",
     "user" : {
       "name" : "X-Team",
-      "screen_name" : "x_team",
+      "screen_name" : "xteam",
       "protected" : false,
       "id_str" : "10145322",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418130945732931584\/ySfN3M_R_normal.png",
@@ -3604,7 +3574,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Paul Clark",
@@ -3637,7 +3607,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Bachhuber",
@@ -3670,7 +3640,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eric Mann",
@@ -3703,7 +3673,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeremy Felt",
@@ -3741,7 +3711,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Regan",
@@ -3766,7 +3736,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "365767145625370624",
   "text" : "RT @johnregan3: For #WordPress Devs who want to get into Unit Testing (and we all should): http:\/\/t.co\/0zVxr6y46d (WPTuts)",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3791,7 +3761,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "johnregan3",
       "protected" : false,
       "id_str" : "12517352",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000411183227\/23943671f80ca2906d8a2d11818d7a62_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461609206051659776\/A5IgjvTc_normal.jpeg",
       "id" : 12517352,
       "verified" : false
     }
@@ -3808,10 +3778,10 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul",
+      "name" : "Paul \u24E6",
       "screen_name" : "paul_wp",
       "indices" : [ 0, 8 ],
       "id_str" : "15728818",
@@ -3841,7 +3811,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Taylor D Dewey",
@@ -4195,7 +4165,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Styles Plugin",
@@ -4335,7 +4305,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "364793365386100737",
   "text" : "RT @nacin: We\u2019re rearranging WordPress trunk, introducing new and better tools, to make benefit glorious software of WordPress https:\/\/t.co\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4426,7 +4396,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zack Tollman",
@@ -4459,10 +4429,10 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Broton",
+      "name" : "bro(ton)grammer",
       "screen_name" : "joshbroton",
       "indices" : [ 3, 14 ],
       "id_str" : "26140415",
@@ -4511,11 +4481,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 363498092944830465,
     "created_at" : "2013-08-03 03:14:33 +0000",
     "user" : {
-      "name" : "Josh Broton",
+      "name" : "bro(ton)grammer",
       "screen_name" : "joshbroton",
       "protected" : false,
       "id_str" : "26140415",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2479632610\/i5hc6xxvrqldpgmwbd5q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477834124216922113\/VGbI_6PL_normal.jpeg",
       "id" : 26140415,
       "verified" : false
     }
@@ -4583,11 +4553,11 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 14, 21 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4617,7 +4587,7 @@ Grailbird.data.tweets_2013_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephen Reay",
-      "screen_name" : "BobblesTMonkey",
+      "screen_name" : "bobblestmonkey",
       "indices" : [ 0, 15 ],
       "id_str" : "29897951",
       "id" : 29897951
@@ -4634,7 +4604,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 364286901638795265,
   "in_reply_to_status_id" : 364283207178403841,
   "created_at" : "2013-08-05 07:29:00 +0000",
-  "in_reply_to_screen_name" : "BobblesTMonkey",
+  "in_reply_to_screen_name" : "bobblestmonkey",
   "in_reply_to_user_id_str" : "29897951",
   "user" : {
     "name" : "Weston Ruter \u26A1",
@@ -4861,7 +4831,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "A Googler",
@@ -4889,7 +4859,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "363446645725208576",
   "text" : "RT @google: Dude, where's my phone? Three simple steps you can take to protect your @Android device http:\/\/t.co\/XYvyJfm2PF",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Android",
@@ -4934,7 +4904,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Josh Johnston",
@@ -5237,7 +5207,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jen Mylo\/Jane Wells",
@@ -5533,7 +5503,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrey Savchenko",
@@ -5704,7 +5674,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrey Savchenko",
@@ -5765,7 +5735,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrey Savchenko",
@@ -5949,7 +5919,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "363062813528293381",
   "text" : "RT @WordPress: WordPress 3.6 \u201COscar\u201D is here, with audio\/video support, better autosaves and revisions, a bold new theme, and more: http:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5990,13 +5960,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "X-Team",
-      "screen_name" : "x_team",
-      "indices" : [ 3, 10 ],
-      "id_str" : "10145322",
-      "id" : 10145322
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -6029,7 +5993,7 @@ Grailbird.data.tweets_2013_08 =
     "created_at" : "2013-08-01 08:02:05 +0000",
     "user" : {
       "name" : "X-Team",
-      "screen_name" : "x_team",
+      "screen_name" : "xteam",
       "protected" : false,
       "id_str" : "10145322",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418130945732931584\/ySfN3M_R_normal.png",

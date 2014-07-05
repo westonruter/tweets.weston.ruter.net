@@ -1,10 +1,10 @@
 Grailbird.data.tweets_2011_12 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GOOD ",
-      "screen_name" : "GOOD",
+      "screen_name" : "good",
       "indices" : [ 3, 8 ],
       "id_str" : "19621110",
       "id" : 19621110
@@ -59,7 +59,7 @@ Grailbird.data.tweets_2011_12 =
     "created_at" : "2011-12-27 13:59:59 +0000",
     "user" : {
       "name" : "GOOD ",
-      "screen_name" : "GOOD",
+      "screen_name" : "good",
       "protected" : false,
       "id_str" : "19621110",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3444533212\/fd0ee01ab8ff3ee05b8d1b5c5187f840_normal.jpeg",
@@ -79,7 +79,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mint.com",
@@ -113,7 +113,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Cennydd Bowles",
@@ -147,7 +147,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "Cennydd",
       "protected" : false,
       "id_str" : "68003",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2926688101\/269703d04ce91f1b3a85d347cac15936_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483715699718647809\/umuogc58_normal.png",
       "id" : 68003,
       "verified" : false
     }
@@ -267,7 +267,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eric Butler",
@@ -284,7 +284,7 @@ Grailbird.data.tweets_2011_12 =
   "id_str" : "151378191217459200",
   "text" : "RT @codebutler: Regardless of SOPA, I hope people don't stop moving domains off Godaddy. They're still an ugly, scamy, sexist, awful com ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -318,7 +318,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -536,11 +536,11 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 65, 72 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     }, {
       "name" : "XHTMLized",
       "screen_name" : "xhtmlized",
@@ -567,7 +567,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Johnstone",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "James Tauber",
@@ -724,7 +724,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nicholas C. Zakas",
@@ -830,7 +830,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Dyer",
@@ -894,7 +894,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tomasz Paczkowski",
@@ -927,68 +927,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "khaoid",
-      "screen_name" : "khaoid",
-      "indices" : [ 3, 10 ],
-      "id_str" : "120819229",
-      "id" : 120819229
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 70, 90 ],
-      "url" : "http:\/\/t.co\/EScE0VfV",
-      "expanded_url" : "http:\/\/goo.gl\/0A0xA",
-      "display_url" : "goo.gl\/0A0xA"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "147178850588172288",
-  "text" : "RT @khaoid: Using QR codes to restore murals to their original state: http:\/\/t.co\/EScE0VfV",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.sharedby.co\" rel=\"nofollow\"\u003ESharedBy\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 58, 78 ],
-        "url" : "http:\/\/t.co\/EScE0VfV",
-        "expanded_url" : "http:\/\/goo.gl\/0A0xA",
-        "display_url" : "goo.gl\/0A0xA"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "146295872093818880",
-    "text" : "Using QR codes to restore murals to their original state: http:\/\/t.co\/EScE0VfV",
-    "id" : 146295872093818880,
-    "created_at" : "2011-12-12 18:30:28 +0000",
-    "user" : {
-      "name" : "khaoid",
-      "screen_name" : "khaoid",
-      "protected" : false,
-      "id_str" : "120819229",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000709109910\/cafbae6c8403ba256a15b6f7f14b7df1_normal.jpeg",
-      "id" : 120819229,
-      "verified" : false
-    }
-  },
-  "id" : 147178850588172288,
-  "created_at" : "2011-12-15 04:59:07 +0000",
-  "user" : {
-    "name" : "Weston Ruter \u26A1",
-    "screen_name" : "westonruter",
-    "protected" : false,
-    "id_str" : "12887432",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3242042127\/0e614be607ee24e01cda0f3300db33ca_normal.jpeg",
-    "id" : 12887432,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u0641\u0631\u0622\u063A. ",
@@ -1021,7 +960,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Mann",
@@ -1082,7 +1021,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tomasz Paczkowski",
@@ -1282,7 +1221,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1429,7 +1374,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1480,7 +1431,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1508,7 +1459,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Brault",
@@ -1546,7 +1497,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Brault",
@@ -1580,7 +1531,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "adambrault",
       "protected" : false,
       "id_str" : "1568",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418303980565827584\/_DojMXkY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474848741849968641\/vN5qcXaZ_normal.jpeg",
       "id" : 1568,
       "verified" : false
     }
@@ -1597,7 +1548,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1631,11 +1582,11 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "45747512",
       "id" : 45747512
     }, {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 107, 114 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1681,6 +1632,12 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    }, {
       "name" : "David Eyk",
       "screen_name" : "eykd",
       "indices" : [ 10, 15 ],
@@ -1747,9 +1704,15 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1804,7 +1767,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1827,6 +1796,12 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    }, {
       "name" : "David Eyk",
       "screen_name" : "eykd",
       "indices" : [ 10, 15 ],
@@ -1855,6 +1830,12 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    }, {
       "name" : "David Eyk",
       "screen_name" : "eykd",
       "indices" : [ 10, 15 ],
@@ -1882,7 +1863,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1905,6 +1892,12 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    }, {
       "name" : "David Eyk",
       "screen_name" : "eykd",
       "indices" : [ 10, 15 ],
@@ -1932,7 +1925,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1957,9 +1956,15 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1981,7 +1986,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "minecraft",
@@ -2080,7 +2091,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2100,7 +2117,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Divya Manian",
@@ -2144,7 +2161,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "divya",
       "protected" : false,
       "id_str" : "66682221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3523693118\/035ce64a836da268084ec9396aa92ab0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464926869339398144\/5XZVY_a7_normal.jpeg",
       "id" : 66682221,
       "verified" : false
     }
@@ -2161,9 +2178,15 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    }, {
       "name" : "Nathan Smith",
       "screen_name" : "nathansmith",
       "indices" : [ 82, 94 ],
@@ -2195,9 +2218,15 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    }, {
       "name" : "John Dyer",
       "screen_name" : "johndyer",
       "indices" : [ 14, 23 ],
@@ -2228,7 +2257,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Brault",
@@ -2295,7 +2324,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Brault",
@@ -2339,7 +2368,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "adambrault",
       "protected" : false,
       "id_str" : "1568",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418303980565827584\/_DojMXkY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474848741849968641\/vN5qcXaZ_normal.jpeg",
       "id" : 1568,
       "verified" : false
     }
@@ -2356,7 +2385,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zach Holman",
@@ -2400,7 +2429,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "holman",
       "protected" : false,
       "id_str" : "11322372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418621979491450880\/xNRUDtqG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478434515916824576\/y_0DGc0F_normal.jpeg",
       "id" : 11322372,
       "verified" : false
     }
@@ -2417,7 +2446,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ActiveState",
@@ -2480,9 +2509,15 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2502,7 +2537,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Eyk",

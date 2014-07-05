@@ -55,7 +55,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -395,7 +395,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "PetaPixel",
@@ -860,7 +860,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "jhuskisson",
       "protected" : false,
       "id_str" : "5636062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000052945143\/0e50738954b4547e5f475c89c7648fd9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448054035548217344\/qNtytIT7_normal.jpeg",
       "id" : 5636062,
       "verified" : false
     }
@@ -1482,7 +1482,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "246316067000029184",
   "text" : "RT @joshwnj: hey @melbjs I'm looking for a couple of junior \/ intermediate JS developers to join us at http:\/\/t.co\/onkDM2JT - any ideas  ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "MelbJS",
@@ -1646,7 +1646,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Weston Ruter \u26A1",
@@ -1663,7 +1663,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "245258000846172160",
   "text" : "RT @karolinaszczur: @westonruter Had the same issue. Change the font :) I'm using Menlo Regular for Powerline and it's working perfectly.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Weston Ruter \u26A1",
@@ -1687,11 +1687,11 @@ Grailbird.data.tweets_2012_09 =
     "in_reply_to_screen_name" : "westonruter",
     "in_reply_to_user_id_str" : "12887432",
     "user" : {
-      "name" : "Karolina Szczur",
+      "name" : "(\uFF89\u25D5\u30EE\u25D5)\uFF89",
       "screen_name" : "fox",
       "protected" : false,
       "id_str" : "42864649",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000620587381\/df22eb66701e4116815da4da5bc43a09_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/470648575752273921\/omRLAwc8_normal.png",
       "id" : 42864649,
       "verified" : false
     }
@@ -1708,7 +1708,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -1772,7 +1772,13 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1839,7 +1845,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google Voice",
@@ -1867,7 +1873,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gmail",
@@ -1895,7 +1901,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gmail",

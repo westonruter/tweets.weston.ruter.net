@@ -21,11 +21,11 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "10178492",
       "id" : 10178492
     }, {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 122, 129 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -51,7 +51,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -128,7 +128,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "109132746311479296",
   "text" : "RT @cthulhuchick: Creative types: Whenever you worry about that one thing you wish you had added to your finished piece, think of George ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -196,7 +196,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -256,7 +256,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Matthieu",
@@ -309,6 +309,12 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 0, 5 ],
       "id_str" : "15936705",
       "id" : 15936705
+    }, {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 6, 15 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -337,6 +343,12 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    }, {
       "name" : "David Eyk",
       "screen_name" : "eykd",
       "indices" : [ 76, 81 ],
@@ -362,7 +374,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gmail",
@@ -390,7 +402,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gmail",
@@ -429,7 +441,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Alex Russell",
@@ -462,9 +474,15 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -484,7 +502,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "James Socol",
@@ -501,7 +519,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "108786902299189248",
   "text" : "RT @jamessocol: I like when people take the position that things are complicated and nuanced and understand the people they disagree with.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -538,6 +556,12 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    }, {
       "name" : "David Eyk",
       "screen_name" : "eykd",
       "indices" : [ 10, 15 ],
@@ -607,7 +631,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "adambrault",
       "protected" : false,
       "id_str" : "1568",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418303980565827584\/_DojMXkY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474848741849968641\/vN5qcXaZ_normal.jpeg",
       "id" : 1568,
       "verified" : false
     }
@@ -624,7 +648,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Bearden",
@@ -641,7 +665,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "108732622003372032",
   "text" : "RT @dpbearden: America's Funniest Home videos is still on the air \u2014 youtube for old people.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -677,7 +701,13 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -705,6 +735,12 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 0, 5 ],
       "id_str" : "15936705",
       "id" : 15936705
+    }, {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 6, 15 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -793,7 +829,13 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Nathan D. Smith",
+      "screen_name" : "_ndsmith",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2565702482",
+      "id" : 2565702482
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -841,7 +883,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "real_b_d",
       "protected" : false,
       "id_str" : "17561233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1134595002\/profile_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433344806018768896\/eO7rvLmE_normal.jpeg",
       "id" : 17561233,
       "verified" : false
     }
@@ -899,13 +941,7 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Seattle Pacific Univ",
-      "screen_name" : "SPUnews",
-      "indices" : [ 3, 11 ],
-      "id_str" : "40121967",
-      "id" : 40121967
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -919,7 +955,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "108721913710395392",
   "text" : "RT @SPUnews: Google Maps made a visit to SPU. Check out the cool bicycle with the huge camera! http:\/\/t.co\/vBlygEI",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -938,10 +974,10 @@ Grailbird.data.tweets_2011_08 =
     "created_at" : "2011-08-30 19:21:48 +0000",
     "user" : {
       "name" : "Seattle Pacific Univ",
-      "screen_name" : "SPUnews",
+      "screen_name" : "SeattlePacific",
       "protected" : false,
       "id_str" : "40121967",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/224732467\/twitnews-icon_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459037128010129408\/0i1O4NLi_normal.jpeg",
       "id" : 40121967,
       "verified" : false
     }
@@ -1064,7 +1100,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1089,7 +1125,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1298,7 +1334,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "tehviking",
       "protected" : false,
       "id_str" : "59341538",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3322536129\/48a6ffc3aa1bfd0684d16c76c40e6e76_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431152612264509440\/r4L_jVW6_normal.jpeg",
       "id" : 59341538,
       "verified" : false
     }
@@ -1483,11 +1519,11 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Team",
+      "name" : "\u516D\u8ECA \u592A\u52A9",
       "screen_name" : "x_team",
       "indices" : [ 86, 93 ],
-      "id_str" : "10145322",
-      "id" : 10145322
+      "id_str" : "2502594218",
+      "id" : 2502594218
     }, {
       "name" : "XHTMLized",
       "screen_name" : "xhtmlized",
@@ -1626,7 +1662,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Vaughn",
@@ -1659,7 +1695,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ariya Hidayat",
@@ -1693,7 +1729,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "105866574417760258",
   "text" : "RT @ariyahidayat: #Chromium #WebKit is ported to #Android http:\/\/t.co\/cxflwUp #in",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1727,7 +1763,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "AriyaHidayat",
       "protected" : false,
       "id_str" : "15608761",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678491648\/bfd0175d1292d5e58078bdb3ef55893b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423327485502058496\/skBj5h9g_normal.jpeg",
       "id" : 15608761,
       "verified" : false
     }
@@ -1744,10 +1780,10 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Taylor",
+      "name" : "Mike Taylor ",
       "screen_name" : "miketaylr",
       "indices" : [ 3, 13 ],
       "id_str" : "16642746",
@@ -1784,7 +1820,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 105840584245248002,
     "created_at" : "2011-08-23 03:15:36 +0000",
     "user" : {
-      "name" : "Mike Taylor",
+      "name" : "Mike Taylor ",
       "screen_name" : "miketaylr",
       "protected" : false,
       "id_str" : "16642746",
@@ -1805,7 +1841,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Adam Brault",
@@ -1839,7 +1875,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "adambrault",
       "protected" : false,
       "id_str" : "1568",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418303980565827584\/_DojMXkY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474848741849968641\/vN5qcXaZ_normal.jpeg",
       "id" : 1568,
       "verified" : false
     }
@@ -1890,7 +1926,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u0641\u0631\u0622\u063A. ",
@@ -1923,7 +1959,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kickstarter",
@@ -2183,7 +2219,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "103968151892529153",
   "text" : "RT @josh_wnj: nice. moving js code from Pastie into a google doc so I get syntax colouring and can make annotations.  Thanks for the ide ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "OJ",
@@ -2420,7 +2456,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "wesbos",
       "protected" : false,
       "id_str" : "815246",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000448728494\/78825ea3f5e00da1a7e1b1c746a50dde_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483631308589920256\/01FPpVF0_normal.jpeg",
       "id" : 815246,
       "verified" : false
     }
@@ -2437,7 +2473,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Eyk",
@@ -2571,7 +2607,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joe Devon \u00AE",
@@ -2604,7 +2640,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2626,7 +2662,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Injustice Facts",
@@ -2643,7 +2679,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "103306444388044801",
   "text" : "RT @InjusticeFacts: The richest 2% of the world's population spend more on 'organic' food than 74% of humanity spend on basic life susta ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2677,7 +2713,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "XIANITY",
@@ -2694,7 +2730,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "103305356599492608",
   "text" : "RT @XIANITY: CHURCH: Christian leaders worry as council determines God's Sovereignty no longer an excuse for poor decision making.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2728,7 +2764,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "jsgoodies",
@@ -2779,7 +2815,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brad Frost",
@@ -2796,7 +2832,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "103302560856809472",
   "text" : "RT @brad_frost: Telling web designers they don't need to worry about code is like telling architects they don't need to worry about stee ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2813,7 +2849,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "brad_frost",
       "protected" : false,
       "id_str" : "11855482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000332942357\/f1ddc074dc710a38887d42c29fd09910_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477508680909193216\/xMiZhwiD_normal.jpeg",
       "id" : 11855482,
       "verified" : false
     }
@@ -2830,7 +2866,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jonathan Wight",
@@ -2881,7 +2917,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dion Almaer",
@@ -2970,10 +3006,10 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matthew Podwysocki",
+      "name" : "\u041C\u0430\u0442\u0432\u0456\u0439 \u041F\u0456\u0434\u0432\u0438\u0441\u043E\u0446\u044C\u043A\u0438\u0439",
       "screen_name" : "mattpodwysocki",
       "indices" : [ 3, 18 ],
       "id_str" : "12699642",
@@ -2992,7 +3028,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "103300692717998080",
   "text" : "RT @mattpodwysocki: Oh this is awesome, the Ace Editor from Cloud9 IDE now powers file editing on GitHub: http:\/\/t.co\/umZIc9x",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3010,7 +3046,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 103195641345355777,
     "created_at" : "2011-08-15 20:05:32 +0000",
     "user" : {
-      "name" : "Matthew Podwysocki",
+      "name" : "\u041C\u0430\u0442\u0432\u0456\u0439 \u041F\u0456\u0434\u0432\u0438\u0441\u043E\u0446\u044C\u043A\u0438\u0439",
       "screen_name" : "mattpodwysocki",
       "protected" : false,
       "id_str" : "12699642",
@@ -3031,7 +3067,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sarah Kurth",
@@ -3339,7 +3375,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "101845465661841408",
   "text" : "RT @johndyer: Which is worse: giving social media to rioters or giving government power to shut down social media? http:\/\/t.co\/PsNVHwW",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3608,7 +3644,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Scruggs",
+      "name" : "Sir Scruggsalot",
       "screen_name" : "TechScruggs",
       "indices" : [ 3, 15 ],
       "id_str" : "88602172",
@@ -3635,7 +3671,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 101194101982105601,
     "created_at" : "2011-08-10 07:32:08 +0000",
     "user" : {
-      "name" : "Aaron Scruggs",
+      "name" : "Sir Scruggsalot",
       "screen_name" : "TechScruggs",
       "protected" : false,
       "id_str" : "88602172",
@@ -3787,7 +3823,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "101336824080904192",
   "text" : "RT @GaryM: @joedevon My pet peeve is when a sentence is incomplete in a newspaper article because it apparently did not fit during layout.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Joe Devon \u00AE",
@@ -3952,7 +3988,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "RealtimeConf",
@@ -4200,7 +4236,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "100656365437071360",
   "text" : "RT @Cloud9IDE: @westonruter we're currently ironing out the last bits to release real-time collaboration in c9.io. No eta on release dat ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Weston Ruter \u26A1",
@@ -4267,7 +4303,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Davin Studer",
@@ -4452,7 +4488,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brent Rieck",
@@ -4554,7 +4590,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "andy idsinga",
@@ -4576,7 +4612,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "99337220099551232",
   "text" : "RT @andyidsinga: wow.. I just discovered v8 javascript extension for PHP: http:\/\/t.co\/1D87fFP",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4598,7 +4634,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "andyidsinga",
       "protected" : false,
       "id_str" : "16370375",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417114233373851648\/6R8DcWal_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459022985718816768\/MEAhGaQB_normal.jpeg",
       "id" : 16370375,
       "verified" : false
     }
@@ -4681,7 +4717,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chan",
@@ -4720,7 +4756,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brent Rieck",
@@ -4753,7 +4789,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brent Rieck",
@@ -4775,7 +4811,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "99003411550310400",
   "text" : "RT @bsr: At work we're now mad for QR codes so to make life slightly easier I made this: http:\/\/t.co\/ksuxNyQ",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4814,7 +4850,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dion Almaer",
@@ -4930,7 +4966,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "98977661900165121",
   "text" : "RT @johndyer: The King of Jordan is building $1.5 billion Star Trek theme park in ... Jordan http:\/\/t.co\/euD5yBX \/\/ at least it's not th ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5054,7 +5090,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "WHATWG",
       "protected" : false,
       "id_str" : "3963051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/21965242\/logo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472307106108829696\/HGmRfS_j_normal.png",
       "id" : 3963051,
       "verified" : false
     }
@@ -5141,7 +5177,7 @@ Grailbird.data.tweets_2011_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Beanstalk",
-      "screen_name" : "Beanstalkapp",
+      "screen_name" : "beanstalkapp",
       "indices" : [ 3, 16 ],
       "id_str" : "23161518",
       "id" : 23161518
@@ -5165,7 +5201,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tim Disney",
@@ -5198,7 +5234,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5225,7 +5261,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5386,7 +5422,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "98261886474272769",
   "text" : "RT @humphd: Another Text-To-Speech engine in JS, this time compiled from C++ (eSpeak) to JS via Emscripten: http:\/\/t.co\/8xFZZ5U by azakai",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5497,7 +5533,7 @@ Grailbird.data.tweets_2011_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

@@ -185,7 +185,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "bilal_shirazi",
       "protected" : false,
       "id_str" : "15256632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/60010796\/bilal_normal.PNG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/471056194308538369\/TboCJPdr_normal.jpeg",
       "id" : 15256632,
       "verified" : false
     }
@@ -224,7 +224,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "New Wine",
@@ -266,7 +266,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Multnomah University",
@@ -310,7 +310,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "multnomahu",
       "protected" : false,
       "id_str" : "15290634",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000412211941\/fafe74b136041a663ccf4c3008297610_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461937229896507392\/VU4GpPLz_normal.jpeg",
       "id" : 15290634,
       "verified" : false
     }
@@ -470,7 +470,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "dshaw",
       "protected" : false,
       "id_str" : "806757",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1552591406\/angry_unicorn_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477117246922166272\/ZUOBz5Zv_normal.png",
       "id" : 806757,
       "verified" : false
     }
@@ -546,7 +546,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "julien51",
       "protected" : false,
       "id_str" : "5381582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000531590298\/7ae6f4d371c8303a0dd6a695d4e02de2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425183656487841792\/oI17U1UR_normal.jpeg",
       "id" : 5381582,
       "verified" : false
     }
@@ -773,7 +773,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Greg Boyd",
@@ -824,7 +824,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Bilal Shirazi",
@@ -1793,7 +1793,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Frankie Jarrett",
@@ -2047,7 +2047,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "johnmarkcomer",
       "protected" : false,
       "id_str" : "115869360",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000531418315\/25f0066f8fe1ec34bcd1bc8018c204d9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476036968141189121\/p7XR-9LC_normal.jpeg",
       "id" : 115869360,
       "verified" : false
     }
@@ -2476,7 +2476,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eric Mann",
@@ -2531,7 +2531,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brent Rieck",
